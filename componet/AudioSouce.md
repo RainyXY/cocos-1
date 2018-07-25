@@ -28,7 +28,6 @@
 
 ### AudioSource代码使用
 
-
 * 1: 代码中获得cc.AudioSource组件: 
 
         编辑器关联; 

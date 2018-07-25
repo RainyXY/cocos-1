@@ -40,3 +40,4 @@
 
 ##### 6.[分享功能](/componet/share.md)
 
+##### 7.[判断从何种方式进入小程序,场景值](/componet/scene.md)
